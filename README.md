@@ -1,0 +1,2 @@
+generator-single-page-app
+=========================
